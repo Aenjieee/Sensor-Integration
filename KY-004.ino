@@ -126,4 +126,5 @@ void app_main(void)
 	}
 }
 
-//Updated Files
+
+// Updated files for sensor
