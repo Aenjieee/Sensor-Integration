@@ -126,5 +126,3 @@ void app_main(void)
 	}
 }
 
-
-// Updated Files
