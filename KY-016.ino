@@ -40,5 +40,3 @@ void loop() {
 
   delay(1000); // keep the color 1 second
 }
-
-// Updated files for sensor
